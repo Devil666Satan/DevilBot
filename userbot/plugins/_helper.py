@@ -37,7 +37,7 @@ async def cmd_list(event):
             else:
                 await event.edit(input_str + " is not a valid plugin!")
         else:
-            help_string = """Userbot Helper.. Provided by @xditya \n [Check out this dope af channel](https://t.me/giveaways_24hrs) \n
+            help_string = """Userbot Helper.. Provided by My Master @Devil_Satan \n [Check out this dope af channel](https://t.me/techtalks0) \n
 `Userbot Helper to reveal all the commands`"""
             results = await bot.inline_query(  # pylint:disable=E0602
                 tgbotusername,
